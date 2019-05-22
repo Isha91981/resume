@@ -1,0 +1,17 @@
+#heading{background:#eeeeee; }
+#abc{background:#eeeeee; }
+
+#box{
+background:white;
+padding: 100px;
+width:500px;
+margin:50px auto;
+}
+.xyz{
+border:5px solid red;
+border-radius: 100px;
+}
+body{
+background:red;
+margin: 100px auto;
+}
